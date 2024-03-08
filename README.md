@@ -1,8 +1,8 @@
 # This program is for interacting with MBTA Web API
 
 # Installation
-1. `git clone` the entire repository
-2. `cd` into the downloaded repository
+1. `git clone https://github.com/qjrepo/mbta_take_home.git`
+2. `cd mbta_take_home`
 1. Ensure Python3 is installed
 2. Install the necessary packages using pip3: `pip3 install -r requirements.txt`
 
